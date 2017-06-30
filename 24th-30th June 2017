@@ -93,9 +93,15 @@ Tasks:
   3.generate FSK receiver signal in matlab
   
 Results:
-  1.
-  2.
-  3.
+  1. DONE
+  2. FAILED
+  3. FAILED
+  4. matlab function: fskmod(x, M, freq_sep, nsamp, Fs); sound(Y, fs, bits); randi(x,y,z);
 
 Summary:
-  HEADACHE.
+  HEADACHE. I did some exercise but still felt not very energetic. I guess I might sick.
+  Tomorrow is another day. I should keep going with hope and confidence. 
+  Far away from my tiny brother and internet lures no more than one week!
+ 
+ 
+  I do not think I can stand it for long time = =

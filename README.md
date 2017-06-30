@@ -1,2 +1,3 @@
 # Daily-Study-Tasks
-let me check your body
+A log to record my daily study life.
+Make progress everyday!!!!!!!!!!!!!!

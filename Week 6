@@ -1,0 +1,29 @@
+**************** 27th July - 2nd August 2017 *******************
+Date: 27th July 2017
+Tasks:
+  1. envelop detection
+  2. FFT (bloody stupid FFT sampling audio file has god knows filter function!!!!!!!go to hell okay?!!?!? I really get angry!!!)
+Results:
+  1. 10% Done
+  2. 20% Done
+  3. learned some new linux commands on Youtube(such as cat, nano, killall, rmdir.......and some basics)
+  4. learned a new command can transfer list into matrix with any colum (vec2mat(input, number_of_elements_each_vector))
+Summary:
+  Q1:I should make 5 pieces of snapchat of each symbol by using FFT, but how to realise the filter function via FFT???
+  Q2:I can see the envelope waveform, but how to plot this waveform, should I make a function to represent it???
+  Q3:I don't know if I need to set the sampling points by calculating the symbols or just set a large number???
+  Q4:I tried to create 4 bits/symbol signal today, but I got confused about use 'switch' function. The aim is to create 8 amplitudes
+     for each carriers, and the matrix vector got 16 possibilities. Do I need set a loop?!？！How I can extract the number of vectors
+     and compare with 0000-1111?!?! My head will boom boom boom.....TAT (I really do not want to use loads of 'if' to judge the 
+     statements so that I have to consider a perfect solution!!!
+  Motherfxxker!!! I am a totally trouble-maker!!!!!!!! How stupid I am!!!!!!
+  I found loads of questions, I hope I can solve them all after I wake up......Good luck to myself~~~~
+  I learn a new piece of English song for ukulele. How talent I am?!!??!?! I am a artist!!!!!hahahhahahahahaha~~~~~lalala
+  I sent a lovely song to tiny bro, but he didn't reply me even one word!!! How dare he!!!! I am gonna give him some color c c!
+  
+********************************************************
+Date: 28th July 2017
+Tasks:
+  1. solve the questions that I list
+  2. prepare something
+  3. learn something new about linux on Youtube

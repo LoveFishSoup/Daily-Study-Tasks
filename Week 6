@@ -27,3 +27,42 @@ Tasks:
   1. solve the questions that I list
   2. prepare something
   3. learn something new about linux on Youtube
+Results:
+  1. Only get some considerations
+  2. Done
+  3. Failed
+Summary:
+  I went to Dublin for some personal things so that I cannot follow my schedule on time.
+  
+********************************************************
+Date: 29th July 2017
+Day-off
+
+********************************************************
+Date: 30th July 2017
+Tasks:
+  1. Compelete previous tasks
+  2. Start healthy lifestyle
+Results:
+  1. List the things that I should do, and get some ideas about how to implement it
+  2. Long time for running........TAT 
+  3. Q3 Done, keep the sampling points as small as possible, e.g. 128, 256 and got roughly pulse shape
+  4. Q4 50% Done, some mistakes still exist and I do not know where is wrong??!?!!
+Summary:
+  I waste too much energy in the morning so that I cannot follow my schedule ideally.
+  I have to learn how to manage time efficiency and just focus on the project.
+  There are several things that I should do tomorrow:
+  I,    check online how to use pulse shaping to narrow the bandwidth of carrier (like 750Hz)
+  II,   take 5 pieces of snapshots of input signal via FFT, assume sent 10 symbols per second and each symbol last 100 milli second
+  III,  got the spectrum of these pieces and analyse the carrier components in spectrum then demodulate the input audio signal
+  Iv,   consider what is the correct symbol rate to use
+  
+  ********************************************************
+  Date: 31st July 2017
+  Tasks:
+    1. spectrums
+    2. demodulated signals
+    3. envelope detection roughly pulse shaping waveform
+    4. make it as a function for 2 bits per symbol first
+  
+  

@@ -57,12 +57,27 @@ Summary:
   III,  got the spectrum of these pieces and analyse the carrier components in spectrum then demodulate the input audio signal
   Iv,   consider what is the correct symbol rate to use
   
-  ********************************************************
+********************************************************
   Date: 31st July 2017
   Tasks:
     1. spectrums
     2. demodulated signals
     3. envelope detection roughly pulse shaping waveform
     4. make it as a function for 2 bits per symbol first
-  
-  
+  Results:
+    1. 50% Done
+    2. Failed! Too damn hard!
+    3. Failed
+    4. Done 100%
+ Summary:
+  I revised the functions and lower the input parameters of function that makes it easier. 
+    
+********************************************************    
+Date: 1st-2nd August 2017
+Summary:
+I done function for 4 bits per symbol for modulation. I tried to think out a suitable way to demodulate the signals but failed.
+Symbol rate is related to the bandwidth of carriers. 
+The resolytion refer to sampling points.
+The result of FFT is a complex number of N sampling points.
+bits rate and baud rate can be calculated via bandwidth of carriers.
+    

@@ -15,7 +15,6 @@ Summary:
   Q1: how to use pulse shaping in demodulation??
   Q2: how to set the pulse shaping rate??
   Q3: how to combine fft with pulse shaping??
-  Q4: 
   I should focus on the question solution rather than knowledge.
 **********************************************************
 Date: 5th August 2017
@@ -30,3 +29,7 @@ Focus on pulse shaping filter.
 **********************************************************
 Date: 8th August 2017
 meet supervisor and fix some potential problems.
+**********************************************************
+Date: 9th August 2017
+Make sure the receiver demodulated carrier frequencies are same as the transmtter.
+2 bits signal demodulation via pulse shaping filter only.

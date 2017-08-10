@@ -1,0 +1,10 @@
+**************** 10th - 16th August 2017 *******************
+Date: 10th August 32017
+Tasks:
+  1. make sure all the fs are the same(rely on the robot sampling rate) (5 min)
+  2. demodulation function of 4 bits and debug it(1 hour)
+  3. check the bandwidth of signal(each symbol assigned 100 milli seconds to handle so that the BW = 20Hz)(15 min)
+  4. check carrier spectrum of each function
+  5. roughly envelope detection(do not need hilbert function, just need use abs function and low pass filter)
+  6. autocriticism is a daily task (three times)
+  

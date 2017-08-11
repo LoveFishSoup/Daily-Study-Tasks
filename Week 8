@@ -7,4 +7,29 @@ Tasks:
   4. check carrier spectrum of each function
   5. roughly envelope detection(do not need hilbert function, just need use abs function and low pass filter)
   6. autocriticism is a daily task (three times)
+Results:
+  1. Done
+  2. Failed
+  3. Done (And I changed the bandwidth to 400Hz which can plot better spectrum)
+  4. Done
+  5. Done
+  6. 50% Done (Not enough)
+Summary:
+  Today just like any other day.
+************************************************************
+Date: 11th August 2017
+Summary:
+  Tomorrow will be another busy day.
+  I really need to think about some problems.
+  Really tired now, I wanna date with my bed.
+************************************************************
+Date: 12th August 2017
+Tasks:
+  1. Add different noise level into signal and test the bits error (noise range from 0 to 20dB)
+  2. calculate average bits error (require lots of tests)
+  3. complete task 2 I haven't finish yet (2 hours)
+  4. linux command learning (1 hours)
+Results:
+
+Summary:
   

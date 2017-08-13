@@ -23,13 +23,37 @@ Summary:
   I really need to think about some problems.
   Really tired now, I wanna date with my bed.
 ************************************************************
-Date: 12th August 2017
+Date: 12th-14th August 2017
 Tasks:
   1. Add different noise level into signal and test the bits error (noise range from 0 to 20dB)
   2. calculate average bits error (require lots of tests)
   3. complete task 2 I haven't finish yet (2 hours)
-  4. linux command learning (1 hours)
+  4. linux command learning (1 hours) * 3
+  5. organize resources for dissertation (2 hours)
 Results:
-
+  1. Failed (TAT)
+  2. Failed (TAT)
+  3. 50% Done (something wrong with that)
+  4. Done (2 videos in youtube)
 Summary:
+  Q1: why the demodulated waveforms are so wired?!?! not filter parameters(order, bandwidth)
+  A1: I will double check modulation function to make sure the modulated part is correct.
+  Q2: how to generate different noise level in matlab?
+  A2: awgn function, (https://stackoverflow.com/questions/23690766/proper-way-to-add-noise-to-signal)
+  Q3: how to calculate bits error?
+  A3: Compare the original digital signal with demodulated digital signal, and calculate the different digits number.
+      It requires thousands test. so I will make a function to calculate the bits error!!!yeah!!!Lazy forever!!!~~~~
+      
+  I should start to my final dissertation. 
+  Framework:
+  Acknowledgement
+  Introduction
+  Academic Background
+  Implementation of audio communication
+  Results
+  Conclusion and future work
+  References
+  Appendix
   
+  Hopeless...I feel really anxious about my life............TAT
+  Keep going!!! Yeah!!! cheer upppppp!!!!

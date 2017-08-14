@@ -33,7 +33,7 @@ Tasks:
 Results:
   1. Failed (TAT)
   2. Failed (TAT)
-  3. 50% Done (something wrong with that)
+  3. 50% Done (something wrong with that)-->Done 100%
   4. Done (2 videos in youtube)
 Summary:
   Q1: why the demodulated waveforms are so wired?!?! not filter parameters(order, bandwidth)

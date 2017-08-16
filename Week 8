@@ -41,22 +41,8 @@ Summary:
   Q2: how to generate different noise level in matlab?
   A2: awgn function, calculate by hands hehehe 
   Q3: how to calculate bits error?
-  A3: Compare the original digital signal with demodulated digital signal, and calculate the different digits number.
-      It requires thousands test. so I will make a function to calculate the bits error!!!yeah!!!Lazy forever!!!~~~~
   bug fixed. I watched a movie named MAD RABBIT. Quite wired and got strong psychological indicates.
   I helped my classmate to answer two questions......
-  
-  I should start my final dissertation. 
-  Framework:
-  Acknowledgement
-  Introduction
-  Academic Background
-  Implementation of audio communication
-  Results
-  Conclusion and future work
-  References
-  Appendix
-  
   Hopeless...I feel really anxious about my life............TAT
   Keep going!!! Yeah!!! cheer upppppp!!!!
 ************************************************************
@@ -64,11 +50,17 @@ Date: 15th August 2017
 Task:
   1. Introduction part 
   2. linux command (1 hour)
-  3. 
 Results:
-  1. 
-  2. 
+  1. 50% Done
+  2. Done
 Summary:
   logical problem in my head.......Maybe I am too stupid to figure it out.
   I do not know why I can got correct results when I run each line separately but failed when I use loop.
   I am pretty sure that Matlab got a big bug here ... 
+************************************************************
+Date: 16th August 2017
+  Day-off
+Summary:
+  I felt blue. But I can get along with it.
+  Everything will be fine. I am pretty sure that.
+  Hope.

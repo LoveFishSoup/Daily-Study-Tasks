@@ -21,7 +21,7 @@ Task:
   3. linux basics (videos)
   4. prepare interview
 Results:
-  1. 10% Done
+  1. 10% Done --> 50% Done
   2. 50% Done
   3. failed
   4. 10% Done
@@ -40,17 +40,33 @@ Results:
   3. Failed
 Summary:
   Q1: what is Emacs?
+  A1: A text editor which similar to VI and VIM.
   Q2: what is tmux?
+  A2: A software tool, which aims to run multiple terminal windows in one terminal.
+      ctrl -b c - new window^C  (create a new window of terminal)
+      ctrl -b ,  (rename the new window at the bottom)
+      ctrl -b p (for previous window) n (for next window)
+      ctrl -b %  (split vertically)
+      ctrl -b :  (split horizontally) or split window (at the bottom line)
   
 ************************************************************
 Date: 28th August 2017
 Tasks:
   1. linux basics (videos)
   2. prepare interview
-
+Results:
+  1. Account management + process monitor
+  2. 50% Done
+  3. process niecness basic
+Summary:
+  Not enough.
 ************************************************************
 Date: 29th August 2017
-Tasks:
-  1. 
+Summary:
+  Watched movies.................
 
 ************************************************************
+Date: 40th August 2017
+Task:
+  1. prepare interview for tomorrow
+  2. prepare demo of FYP

@@ -74,3 +74,22 @@ Tasks:
   1. MySQL (10 videos)
   2. online test
   3. personal blog fix & add a new blog in the page
+Results:
+  1. 
+  2. Done
+  3. 50% Done
+  4. tou jian li like crazy~~~
+Summary:
+  I found that I have loads of knowledge need to know!!! I know nothing but better than before hahaha~
+  Q1: how to transfer RBG into YUU422?
+  A1: I really don't know. hahaha xxx@#$%^&*()~~
+  Q2: how to calculate needed memory of video and image in RBG?
+  A2: follow the formula: Memory = Weight(pixel number)*Height(pixel number)*fps(frame per second)*time(in second)*8(bits)
+  Q3: The memory divided into four parts, namely: stack, heap, static and constant.
+  A3: Stack   --> compiler allocate and release space, used to store function parameter values and local variables;
+      Heap    --> programmer allocate the space, and if programmer don't release space, the OS will reclaim the space at the
+      end of function;
+      Static  --> used to store global variables and static variables, the initialised global and statistic variables in one 
+      area, the non-initialised global and static variables in another area, the space will be released at the end of func;
+      Constant--> used to store constant strings, the space will be released at the end of function.
+  tiny bro made a duck face hahhh ~~~ interesting~~~ bi xin gu feng ji

@@ -20,18 +20,21 @@ Tasks:
   2. Self-test
   3. interview preparation
 Results:
-  1. Done
+  1. 50% Done
   2. Failed
   3. Done
 Summary:
   Q1: If I wanna build a image recognition system for automatic driving, how to realize surrounding environment detection
       at night?
-  A1: SLAM. Simultaneous localization and mapping. It makes me remind my roommate----Sam. SLAM can detect the laser 
-      that transfer by itself. SLAM could be useful.
+  A1: (SLAM. Simultaneous localization and mapping. It makes me remind my roommate----Sam. SLAM can detect the laser 
+      that transfer by itself. SLAM could be useful.)
+      The above solution is infeasible because SLAM rely on the reflection laser signal. Thus, it used more frequently 
+      at indoor environment.
+      I guess that the car could use infrared ray to detect the objects in real-time environment. Or, it could use transfer
+      electromagnetic wave to detect objects and ppl.
   S2: I found that the program are quite similar in some aspects. Seems like I got something but I cannot speak it out.
   S3: php is a programming language which is more suitable for SQL because of it is a web develop language.
-  S4: I bought a cloud server for fun
-  
+  S4: I bought a cloud server for fun. 
 ********************************************************
 Date: 10th November 2017
 Tasks:

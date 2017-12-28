@@ -54,3 +54,21 @@ Summary:
   I attend the Japanese class tonight. Bad memory!!! a i u e o. k->s->t->h->n->m->y->l->w->ummmmm
   Finally!!! A high school boy sat next to me. Everyone treat their life conscientiously. I should learn from them.
   Too tired today. Tomorrow is another day.
+********************************************************
+Date: 28th December 2017
+Summary:
+  I don't have any tasks today. 
+  S1. Nagle Algorithm and Cork Algorithm
+  Both of these two algorithm make contributions to release server load. I want to write a tiny program to realize this function.
+  Nagle Algorithm is to put tiny bytes data together with one set of head data. It allows the data flow when the data bytes reach to 
+  the valve value that defined by programmer. It saves server resources.
+  Cork Algorithm aims to release server load. It makes the channel stock and no data will be passed.
+  S2. IP pool basic flow ... 
+  S3. python basics ... the structure of project is important!
+  S4. Finally ... I completed git tutorial....It's not difficult actually, but I don't know why I delay so much.....TAT
+********************************************************
+Date: 29th December 2017
+Tasks:
+  1. connect IP pool with database to get ip address's info
+  2. build a python project with clearly structure, function: undefined
+  3. C++ program * 3 (Ex.8, Ex.9, add another unknow knowledge point)

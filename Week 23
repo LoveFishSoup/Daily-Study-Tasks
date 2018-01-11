@@ -1,0 +1,27 @@
+*******************************************************************
+Date: 11th - 20th January 2018
+Overview: Living seriously
+*******************************************************************
+Date: 11th January 2018
+Summary:
+  I wasted time day by day and did nothing.
+  How stupid I am. But I would not give up! I will be a brilliant coder!!!
+  I misunderstood the interfaces and operations!!!! 
+  Above all, flow as following:
+  1-> review the input interfaces, simulate input operations and fields
+  2-> create dataset, which includes essential fields
+  3-> table_info::, only operate DB by using simple sql sentences (flexible with conditions in c++)
+  4-> memcache_info::, which can use table_info:: (get - clean)
+  5-> function_service, which matching different operations via SWITCH structure, logical judgement, use memcache_info:: and table_info::
+  6-> xxx.h file, declare matching cpp files
+  7-> compile all, debug all
+  8-> scp to test server
+  9-> restart service.sh
+  10-> testpl
+  ATTENTION:
+  -> all of change of service.cpp, memcache_info.cpp, table_info.cpp required to change their matching xxx.h files
+  -> all the data which obtained by memcache_info::, should be clean after used, in case data in mess
+  -> data flow, input parameters and output parameters
+  -> classify input parameters and functions
+  The requirement for myself: research one thing in deep, got the main point from other similar things!!!(within this 10 days)
+  Exhausted....I don't want to be the one who hinder the development of group... so that I must keep moving faster!!! GOOD NIGHT~

@@ -17,7 +17,7 @@ Summary:
   7-> compile all, debug all
   8-> scp to test server
   9-> restart service.sh
-  10-> testpl
+  10-> test php and postman and testing group's links
   ATTENTION:
   -> all of change of service.cpp, memcache_info.cpp, table_info.cpp required to change their matching xxx.h files
   -> all the data which obtained by memcache_info::, should be clean after used, in case data in mess
@@ -25,3 +25,26 @@ Summary:
   -> classify input parameters and functions
   The requirement for myself: research one thing in deep, got the main point from other similar things!!!(within this 10 days)
   Exhausted....I don't want to be the one who hinder the development of group... so that I must keep moving faster!!! GOOD NIGHT~
+*******************************************************************
+Date: 12th January 2018
+Summary:
+  I am very angry about this stupid network!!! I wrote twice before, but it never allows me upload my records!! 
+  Now, I almost forget what I did couple days ago.
+  completed refund service. However, a tiny bug remained after I left company. I think I can solve it tomorrow.
+  Japanese class.
+*******************************************************************
+Date: 13th January 2018
+Summary:
+  tou de fu sheng ban ri xian....... I slept all the morning!!! hahaahhah
+  review Japanese knowledge till mid-night. I watched half tensorflow tutorial video on Youtube but I still do not understood it well.
+  Anyway, it is an open source python library. I am too weak to touch these knowledge. I ... feel frustrated about that. 
+  Nothing special. I think I should do some exercise every day just for keep health.
+*******************************************************************
+Date: 14th January 2018
+Summary:
+  I slept all the morning as well......I am sleepy again.
+  Japanese class all the afternoon!!! Much more better than before. 
+  The best way to learn something fast is to think the law and logic in the things. It would make things much more easier to get.
+  I am a lazy girl! I spent lots of time on the bed. I am too tired. I am too old?? I am losing my hair!!?? 
+  What should I say?! Who can save my lovely hair?? Nobody but BA king???
+  I should be more brave when I meet difficulties rather than surrounded by negative feelings. Fighting!!
